@@ -1,3 +1,4 @@
+
 // Layout will not be affected after remove below javascript code
 
 // Handle Image Gallery
